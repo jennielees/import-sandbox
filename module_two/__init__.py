@@ -1,2 +1,2 @@
 # This imports everything from the file two_functions.py
-# from two_functions import *
+from two_functions import *
